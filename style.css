@@ -1,0 +1,25 @@
+@import url("https://fonts.googleapis.com/css2?family=Lobster&display=swap");
+
+.navbar-brand,
+h2 {
+  font-family: "Lobster", cursive;
+}
+.jumbotron {
+  padding-top: 7rem;
+  background-color: #e2edff;
+}
+.jumbotron img:hover {
+  transform: scale(1.1);
+}
+#projects {
+  background-color: #e2edff;
+}
+section {
+  padding-top: 5rem;
+}
+#projects img:hover {
+  transform: scale(1.1);
+}
+.card {
+  border-radius: 10px;
+}
